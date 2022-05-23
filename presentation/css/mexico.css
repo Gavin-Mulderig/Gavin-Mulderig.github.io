@@ -11,7 +11,7 @@ body{
 .orange{
 font-family: system-ui, sans-serif;
 font-size: 20px;
-background-color: #dc9656;
+background-color: #666666;
 color: #e8e8e8;
  padding:  0px 10px 10px 10px;
 }
@@ -19,7 +19,7 @@ color: #e8e8e8;
 .green{
 font-family: system-ui, sans-serif;
 font-size: 20px;
-background-color: #2b2b2b;
+background-color: #666666;
 color: #e8e8e8;
  padding:  0px 10px 10px 10px;
 }
@@ -27,7 +27,7 @@ color: #e8e8e8;
 .red{
 font-family: system-ui, sans-serif;
 font-size: 20px;
-background-color: #ab4642;
+background-color: #666666;
 color: #e8e8e8;
  padding:  0px 10px 10px 10px;
 }
@@ -35,7 +35,7 @@ color: #e8e8e8;
 .blue{
 font-family: system-ui, sans-serif;
 font-size: 20px;
-background-color: #4b8093 ;
+background-color: #666666 ;
 color: #e8e8e8;
 padding:  0px 10px 10px 10px;
 }
@@ -43,7 +43,7 @@ padding:  0px 10px 10px 10px;
 .violet{
 font-family: system-ui, sans-serif;
 font-size: 20px;
-background-color: #96609e;
+background-color: #666666;
 color: #e8e8e8;
 padding:  0px 10px 10px 10px;
 }
@@ -117,11 +117,11 @@ color:#96609e;
 	font-family: system-ui, sans-serif;
     background: linear-gradient(
       to bottom, 
-      #f79a0e, #f79a0e 20%, 
-      #f8f8f8   20%, #f8f8f8   40%, 
-      #f79a0e 40%, #f79a0e 60%, 
-      #f8f8f8   60%, #f8f8f8   80%, 
-      #f79a0e 80%, #f79a0e 100%
+      #676767, #676767 20%, 
+      #606060   20%, #606060  40%, 
+      #676767 40%, #676767 60%, 
+      #606060  60%, #606060  80%, 
+      #676767 80%, #676767 100%
     );
 }
 
@@ -132,7 +132,7 @@ color:#96609e;
     left: -250px;
     width: 200px;
     height: 100%;
-    background-color: #0307fc;
+    background-color: #000197;
     transition: 0.3s;
     padding: 0px 10px;
     box-sizing: border-box;
