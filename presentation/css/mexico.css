@@ -117,11 +117,11 @@ color:#96609e;
 	font-family: system-ui, sans-serif;
     background: linear-gradient(
       to bottom, 
-      #676767, #676767 20%, 
+      #636363, #636363 20%, 
       #606060   20%, #606060  40%, 
-      #676767 40%, #676767 60%, 
+      #636363 40%, #636363 60%, 
       #606060  60%, #606060  80%, 
-      #676767 80%, #676767 100%
+      #636363 80%, #636363 100%
     );
 }
 
@@ -132,7 +132,7 @@ color:#96609e;
     left: -250px;
     width: 200px;
     height: 100%;
-    background-color: #000197;
+    background-color: #ffffff;
     transition: 0.3s;
     padding: 0px 10px;
     box-sizing: border-box;
